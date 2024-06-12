@@ -1,0 +1,225 @@
+{
+    "MEX-GVA": {
+        "URLS": [
+            "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI0LTEyLTE3agcIARIDTUVYcgcIARIDR1ZBGh4SCjIwMjUtMDEtMDNqBwgBEgNHVkFyBwgBEgNNRVhAAUgBcAGCAQsI____________AZgBAQ",
+            "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI0LTEyLTE4agcIARIDTUVYcgcIARIDR1ZBGh4SCjIwMjUtMDEtMDNqBwgBEgNHVkFyBwgBEgNNRVhAAUgBcAGCAQsI____________AZgBAQ&tfu=EgYIARAAGAA",
+            "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI0LTEyLTE5agcIARIDTUVYcgcIARIDR1ZBGh4SCjIwMjUtMDEtMDNqBwgBEgNHVkFyBwgBEgNNRVhAAUgBcAGCAQsI____________AZgBAQ&tfu=EgYIARAAGAA",
+            "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI0LTEyLTIwagcIARIDTUVYcgcIARIDR1ZBGh4SCjIwMjUtMDEtMDNqBwgBEgNHVkFyBwgBEgNNRVhAAUgBcAGCAQsI____________AZgBAQ&tfu=EgYIARAAGAA"
+        ],
+        "Flights": [
+            {
+                "dates": "Dec 17, 2024 - Jan 3, 2025",
+                "prices": [
+                    "$19,390",
+                    "$22,360",
+                    "$22,827",
+                    "$22,827",
+                    "$23,699",
+                    "$24,883",
+                    "$24,883",
+                    "$25,247"
+                ],
+                "Best Price": "$19,390"
+            },
+            {
+                "dates": "Dec 18, 2024 - Jan 3, 2025",
+                "prices": [
+                    "$20,518",
+                    "$24,483",
+                    "$24,751",
+                    "$24,883",
+                    "$25,802",
+                    "$27,107",
+                    "$27,236",
+                    "$28,236",
+                    "$34,137"
+                ],
+                "Best Price": "$20,518"
+            },
+            {
+                "dates": "Dec 19, 2024 - Jan 3, 2025",
+                "prices": [
+                    "$20,518",
+                    "$22,827",
+                    "$22,827",
+                    "$24,483",
+                    "$24,550",
+                    "$25,802",
+                    "$28,364",
+                    "$32,493",
+                    "$38,899"
+                ],
+                "Best Price": "$20,518"
+            },
+            {
+                "dates": "Dec 20, 2024 - Jan 3, 2025",
+                "prices": [
+                    "$21,665",
+                    "$23,591",
+                    "$23,591",
+                    "$24,330",
+                    "$25,745",
+                    "$27,045",
+                    "$31,619",
+                    "$32,016",
+                    "$32,016",
+                    "$45,456",
+                    "$50,261"
+                ],
+                "Best Price": "$21,665"
+            }
+        ]
+    },
+    "MEX-CDG": {
+        "URLS": [
+            "https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDI0LTEyLTE3agcIARIDTUVYcgwIAxIIL20vMDVxdGoaIxIKMjAyNS0wMS0wM2oMCAMSCC9tLzA1cXRqcgcIARIDTUVYQAFIAXABggELCP___________wGYAQE",
+            "https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDI0LTEyLTE4agcIARIDTUVYcgwIAxIIL20vMDVxdGoaIxIKMjAyNS0wMS0wM2oMCAMSCC9tLzA1cXRqcgcIARIDTUVYQAFIAXABggELCP___________wGYAQE",
+            "https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDI0LTEyLTE5agcIARIDTUVYcgwIAxIIL20vMDVxdGoaIxIKMjAyNS0wMS0wM2oMCAMSCC9tLzA1cXRqcgcIARIDTUVYQAFIAXABggELCP___________wGYAQE",
+            "https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDI0LTEyLTIwagcIARIDTUVYcgwIAxIIL20vMDVxdGoaIxIKMjAyNS0wMS0wM2oMCAMSCC9tLzA1cXRqcgcIARIDTUVYQAFIAXABggELCP___________wGYAQE"
+        ],
+        "Flights": [
+            {
+                "dates": "Any dates",
+                "prices": [
+                    "$22,923",
+                    "$22,923",
+                    "$22,923",
+                    "$23,323",
+                    "$24,792",
+                    "$26,140",
+                    "$26,712",
+                    "$28,292",
+                    "$28,292",
+                    "$30,205",
+                    "$34,301",
+                    "$34,720"
+                ],
+                "Best Price": "$22,923"
+            },
+            {
+                "dates": "Any dates",
+                "prices": [
+                    "$22,923",
+                    "$23,559",
+                    "$27,322",
+                    "$27,322",
+                    "$27,669",
+                    "$28,017",
+                    "$28,256",
+                    "$28,292",
+                    "$28,292",
+                    "$32,002",
+                    "$35,257",
+                    "$35,676"
+                ],
+                "Best Price": "$22,923"
+            },
+            {
+                "dates": "Any dates",
+                "prices": [
+                    "$24,812",
+                    "$26,601",
+                    "$27,588",
+                    "$28,489",
+                    "$28,999",
+                    "$29,389",
+                    "$29,917",
+                    "$30,240",
+                    "$30,737",
+                    "$35,257",
+                    "$35,676"
+                ],
+                "Best Price": "$24,812"
+            },
+            {
+                "dates": "Any dates",
+                "prices": [
+                    "$23,190",
+                    "$28,278",
+                    "$28,854",
+                    "$28,999",
+                    "$28,999",
+                    "$29,009",
+                    "$30,585",
+                    "$32,548",
+                    "$36,213",
+                    "$36,213",
+                    "$36,632"
+                ],
+                "Best Price": "$23,190"
+            }
+        ]
+    },
+    "MEX-MAD": {
+        "URLS": [
+            "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI0LTEyLTE3agcIARIDTUVYcgcIARIDTUFEGh4SCjIwMjUtMDEtMDNqBwgBEgNNQURyBwgBEgNNRVhAAUgBcAGCAQsI____________AZgBAQ",
+            "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI0LTEyLTE4agcIARIDTUVYcgcIARIDTUFEGh4SCjIwMjUtMDEtMDNqBwgBEgNNQURyBwgBEgNNRVhAAUgBcAGCAQsI____________AZgBAQ",
+            "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI0LTEyLTE5agcIARIDTUVYcgcIARIDTUFEGh4SCjIwMjUtMDEtMDNqBwgBEgNNQURyBwgBEgNNRVhAAUgBcAGCAQsI____________AZgBAQ",
+            "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI0LTEyLTIwagcIARIDTUVYcgcIARIDTUFEGh4SCjIwMjUtMDEtMDNqBwgBEgNNQURyBwgBEgNNRVhAAUgBcAGCAQsI____________AZgBAQ"
+        ],
+        "Flights": [
+            {
+                "dates": "Any dates",
+                "prices": [
+                    "$23,141",
+                    "$23,587",
+                    "$24,059",
+                    "$24,059",
+                    "$24,059",
+                    "$24,841",
+                    "$25,000",
+                    "$31,878",
+                    "$31,878",
+                    "$31,878"
+                ],
+                "Best Price": "$23,141"
+            },
+            {
+                "dates": "Any dates",
+                "prices": [
+                    "$22,594",
+                    "$24,059",
+                    "$24,059",
+                    "$24,059",
+                    "$26,065",
+                    "$26,302",
+                    "$26,302",
+                    "$26,302",
+                    "$27,690"
+                ],
+                "Best Price": "$22,594"
+            },
+            {
+                "dates": "Any dates",
+                "prices": [
+                    "$21,256",
+                    "$24,976",
+                    "$24,976",
+                    "$24,976",
+                    "$26,302",
+                    "$26,816",
+                    "$26,982",
+                    "$27,028",
+                    "$27,028",
+                    "$27,028"
+                ],
+                "Best Price": "$21,256"
+            },
+            {
+                "dates": "Any dates",
+                "prices": [
+                    "$21,682",
+                    "$23,303",
+                    "$23,364",
+                    "$24,976",
+                    "$24,976",
+                    "$26,778",
+                    "$26,964",
+                    "$27,028",
+                    "$27,028"
+                ],
+                "Best Price": "$21,682"
+            }
+        ]
+    }
+}
